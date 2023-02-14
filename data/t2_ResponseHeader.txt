@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 14 Feb 2023 21:35:02 GMT
+Content-Type: text/xml
+Connection: close
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'self'
+Cache-Control: no-store
+Pragma: no-cache
+Referrer-Policy: no-referrer
+

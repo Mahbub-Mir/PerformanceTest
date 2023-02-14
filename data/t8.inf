@@ -1,0 +1,15 @@
+[t8]
+FileName1=t8.json
+URL1=http://update.googleapis.com/service/update2/json
+Total=2
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=t8_RequestBody.txt
+ResponseHeaderFile=t8_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_8.xml
+FileName2=t8f1.htm
+URL2=http://127.0.0.1:1080/cgi-bin/reservations.pl?page=welcome
+FrameIndex2=0.1
+UseFrameIndex=1
+[ProtocolInfo]
+ProtocolId=QTWeb

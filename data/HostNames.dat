@@ -1,0 +1,10 @@
+[hosts]
+127.0.0.1=
+192.168.1.115=
+192.168.1.116=
+192.168.1.110=
+192.168.1.151=
+pki.goog=
+192.168.1.219=
+update.googleapis.com=
+clientservices.googleapis.com=

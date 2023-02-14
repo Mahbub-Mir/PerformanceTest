@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0" xmlns:r="urn:restful-tv-org:schemas:upnp-dd">
+ <specVersion>
+  <major>1</major>
+  <minor>0</minor>
+ </specVersion>
+ <URLBase>http://192.168.1.110:9098</URLBase>
+ <device>
+  <deviceType>urn:schemas-upnp-org:device:dial:1</deviceType>
+  <friendlyName>fios-Basement</friendlyName>
+  <manufacturer>ARRIS</manufacturer>
+  <manufacturerURL>http://www.arris.com</manufacturerURL>
+  <modelDescription>DIAL Server</modelDescription>
+  <modelName>VMS4100P2</modelName>
+  <modelURL>http://www.arris.com</modelURL>
+  <serialNumber>MD2103BL8881</serialNumber>
+  <UDN>uuid:3e76417a-1dd2-11b2-8b71-a0687e4d0b66</UDN>
+  <serviceList>
+   <service>
+    <serviceType>urn:schemas-upnp-org:service:dial:1</serviceType>
+    <serviceId>urn:upnp-org:serviceId:dial</serviceId>
+    <controlURL>/notfound</controlURL>
+    <eventSubURL>/notfound</eventSubURL>
+    <SCPDURL>/notfound</SCPDURL>
+   </service>
+  </serviceList>
+ </device>
+</root>
+

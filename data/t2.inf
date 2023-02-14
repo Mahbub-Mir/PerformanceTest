@@ -1,0 +1,11 @@
+[t2]
+FileName1=t2_description.xml
+URL1=http://192.168.1.151/description.xml
+Total=1
+ContentType=text/xml
+SnapshotXmlFile=snapshot_2.xml
+RequestHeaderFile=t2_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t2_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
